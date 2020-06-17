@@ -1,3 +1,12 @@
+저 해상도 이미지를 scaling 하기 위한 script 추가
+
+```
+bash convert.sh
+```
+
+변환하고자 하는 folder name, 그리고 변환 비율 입력 (%)
+
+
 AprilTag-imgs
 =============
 
